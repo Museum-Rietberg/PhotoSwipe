@@ -1,4 +1,4 @@
-fetch("metadata-xyz.json")
+fetch("metadata-liebezumdetail.json")
   .then((response) => response.json())
   .then((data) => {
 
