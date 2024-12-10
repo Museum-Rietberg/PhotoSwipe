@@ -1,0 +1,3 @@
+Recommended size:
+- Long Edge 320px
+- max. file size 80KB

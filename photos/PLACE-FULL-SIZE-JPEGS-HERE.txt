@@ -1,0 +1,2 @@
+Maximum recommended size is 3000x3000px. However, there is an experimental tiling plugin that allows showing extremely large images.
+https://photoswipe.com/getting-started

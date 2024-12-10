@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex">
+    <title>Image Gallery Title</title>
+    <link rel="shortcut icon" href="#" />
+    <link rel="stylesheet" href="gallery-styling.css" />
+    <link rel="stylesheet" href="idle-slider.css" />
+
+    <!-- PhotoSwipe implementation -->
+    <link rel="stylesheet" href="photoswipe/photoswipe.css" />
+    <script src="photoswipe-module.js" type="module"></script>
+  </head>
+
+  <body>
+    <!-- Gallery Container -->
+    <div class="pswp-gallery" id="gallery"></div>
+
+    <!-- Idle Slider -->
+    <div id="idle-slider">
+      <div id="lang-DE">
+        <h1 class="kiosk-CTA">
+          Entdecken Sie<br />unsere Sammlung von<br />Bildern.
+        </h1>
+      </div>
+      <div id="lang-EN">
+        <h1 class="kiosk-CTA">
+          Discover<br />our collection of<br />images.
+        </h1>
+      </div>
+      <div id="lang-FR">
+        <h1 class="kiosk-CTA">
+          Découvrez<br />notre collection<br />des images.
+        </h1>
+      </div>
+      <nav>
+        <button class="mrz-button-xl" id="start-button">
+          <p class="mrz-button-xl-text">START</p>
+          <div class="mrz-button-xl-icon">
+            <svg width="28" height="48" viewBox="0 0 28 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M3.584 3.16701L24.81 24L3.584 44.833" stroke-width="5" stroke-miterlimit="10" stroke-linecap="square"/>
+              </svg>
+              
+          </div>
+        </button>
+      </nav>
+    </div>
+
+    <!-- Generate Content -->
+    <script src="content-generator.js"></script>
+    <!-- <script src="logger.js"></script>
+    <script src="saveLog.js"></script> -->
+
+    <script>
+      // Start Button hides Idle Slider
+      document
+        .querySelector("#start-button")
+        .addEventListener("click", function () {
+          document.querySelector("#idle-slider").style.display = "none";
+          // accessLogger(); // calls logger.js, which writes each Start button activation to localStorage
+        });
+
+      // IDLE SCREEN TIMER -- run if no other kiosk app is taking care of reloading to idle screen after inactivity
+      
+      // Idle timer (displays Idle Slider after timeout period)
+      // var idleTimer;
+      // var idleTime = 300000; // 5 minutes in milliseconds = 300000
+
+      // function resetIdleTimer() {
+      //   clearTimeout(idleTimer);
+      //   // interactionLogger(); // Logs that user is interacting with interface (UNFINISHED)
+      //   idleTimer = setTimeout(function () {
+      //     if (typeof pswp !== "undefined") {
+      //       // checks if an image is open, if so, closes it
+      //       pswp.close();
+      //     }
+      //     document.querySelector("#idle-slider").style.display = "revert"; // displays Idle Slider
+      //     location.reload(); // reloads page to reset content
+      //   }, idleTime);
+      // }
+
+      // document.addEventListener("mousemove", resetIdleTimer);
+      // document.addEventListener("keydown", resetIdleTimer);
+      // document.addEventListener("scroll", resetIdleTimer);
+      // document.addEventListener("touchstart", resetIdleTimer);
+      // document.addEventListener("touchmove", resetIdleTimer);
+      // document.addEventListener("touchend", resetIdleTimer);
+      // document.addEventListener("click", resetIdleTimer);
+    </script>
+  </body>
+</html>

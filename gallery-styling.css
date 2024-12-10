@@ -1,0 +1,196 @@
+@import url("mrz-corporate-design.css");
+
+:root {
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--shades-black-1);
+  color: var(--screen-white);
+}
+
+h3{
+  font-family: 'Akkurat-Bold';
+  font-size: 35px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 35px; /* 100% */
+  letter-spacing: -0.1px;
+  margin: 16px;
+  max-width: 66vw;
+  white-space: pre; /*Preserves whitespaces and line-breaks from JSON source*/
+  text-align: center;
+  text-wrap: wrap; /* Fallback for text-wrap i.e. Safari*/
+  text-wrap: balance;
+}
+
+h4{
+  font-family: 'Akkurat';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px; /* 131.25% */
+  margin: 0;
+  letter-spacing: 0.05em;
+  text-align: left;
+  text-wrap: wrap; /* Fallback for text-wrap i.e. Safari*/
+  text-wrap: balance;
+
+}
+
+#gallery {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  display: flex;
+  width: calc(100vw - 32px);
+  height: calc(100vh - 32px);
+  padding: 16px;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  align-content: stretch;
+  gap: 16px;
+  flex-wrap: wrap;
+  touch-action: pan-x pan-y;
+}
+
+/* thumbnail container */
+a {
+  width: 128px;
+  height: 128px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+/* PHOTOSWIPE OVERRIDES */
+
+/* thumnail size */
+.pswp-gallery__item img {
+  max-width: 128px;
+  max-height: 128px;
+  object-fit: contain;
+}
+
+.pswp {
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px); /* Safari support */
+}
+
+.pswp__counter, .info-rubrik {
+  font-family: 'Akkurat Mono';
+  color: var(--main-secondary) !important;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+
+/* icon placement */
+.pswp__button--arrow--prev {
+  right: auto;
+  left: 16px !important;
+}
+
+.pswp__button--arrow--next {
+  right: 16px !important;
+}
+
+.pswp__icn {
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.pswp__button--arrow .pswp__icn {
+  top: 50%;
+  margin-top: -30px;
+  width: 48px !important;
+  height: 48px !important;
+  background: none;
+  border-radius: 0;
+}
+
+.pswp__button{
+  width: 48px !important;
+  height: 48px !important;
+  overflow: visible !important;
+}
+
+/* caption */
+.pswp__custom-caption {
+  /* background: rgba(0,0,0,.5); */
+  /*width: calc(100% - 32px);*/
+  width: 100vw;
+  padding: 16px 32px 16px 32px;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: last baseline;
+}
+.info-left, .info-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 10ch;
+  max-width: 17vw;
+}
+
+.hidden-caption-content {
+  display: none;
+}
+
+/* override to show navigation arrows on touch devices*/
+.pswp--touch .pswp__button--arrow {
+  visibility: visible !important;
+}
+
+/* selected image shadow*/
+.pswp--click-to-zoom.pswp--zoom-allowed .pswp__img {
+  box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 1) !important;
+}
+
+/* phone screen optimizations */
+@media screen and (max-width: 600px) {
+  h3 {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 8px;
+    max-width: 95vw;
+    text-wrap: wrap;
+    text-wrap: balance;
+  }
+
+  h4 {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    color: var(--main-secondary);
+  }
+
+  .pswp__custom-caption {
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 16px 16px 16px;
+  }
+
+  .info-rubrik {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    font-family: 'Akkurat';
+  }
+  .info-left, .info-right {
+    flex-direction: row;
+    gap: 1ch;
+    max-width: 90vw;
+  }
+}

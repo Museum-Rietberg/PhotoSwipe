@@ -1,0 +1,117 @@
+@font-face {
+  font-family: PolymathDispBold;
+  src: url(fonts/PolymathDisp-Bold.otf);
+}
+
+@font-face {
+  font-family: PolymathDispRegular;
+  src: url(fonts/PolymathDisp-Regular.otf);
+}
+
+@font-face {
+  font-family: PolymathTextSemi;
+  src: url(fonts/PolymathText-Semibold.otf);
+}
+
+@font-face {
+  font-family: PolymathTextMed;
+  src: url(fonts/PolymathText-Medium.otf);
+}
+
+@font-face {
+  font-family: Akkurat;
+  src: url(fonts/AkkuratLLWeb-Regular.woff2);
+}
+
+@font-face {
+  font-family: Akkurat-Bold;
+  src: url(fonts/AkkuratLLWeb-Bold.woff2);
+}
+
+@font-face {
+  font-family: Akkurat Mono;
+  src: url(fonts/AkkuratMonoLL-Regular.otf);
+}
+
+:root {
+  /*Ragmala Painting Section Colors*/
+  --painting-accent-black: #0B0C0E;
+  --painting-accent-dark: #1C264A;
+  --painting-accent-medium: #5A77BA;
+  --painting-accent-grey: #838795;
+  --painting-accent-light: #C7E7F1;
+  --painting-accent-white: #F7F7F8;
+
+  /*COLORS*/
+  --main-primary: var(--painting-accent-black);
+  --main-secondary: var(--painting-accent-grey);
+  --main-info: #17a2b8;
+  --main-success: #28a745;
+  --main-warning: #ffc107;
+  --main-error: #b65332;
+  --main-light: #f8f9fa;
+  --shades-black-1: var(--painting-accent-black);
+  --shades-black-2: #1d1d1d;
+  --shades-black-3: #282828;
+  --shades-grey-1: #333333;
+  --shades-grey-2: #4f4f4f;
+  --shades-grey-3: #828282;
+  --shades-grey-4: #bdbdbd;
+  --shades-grey-5: #e0e0e0;
+  --shades-white: #ffffff;
+  --screen-white: var(--painting-accent-white);
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+}
+
+/* Typography */
+h1 {
+  font-family: "PolymathDispBold";
+  font-size: 72px;
+  line-height: 72px; /* 100% */
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-family: "Akkurat-Bold";
+  font-size: 24px;
+  font-style: normal;
+  line-height: 30px; /* 125% */
+  letter-spacing: -0.8px;
+}
+
+/* Buttons */
+.mrz-button-xl {
+  display: inline-flex;
+  padding: 32px 64px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 200px;
+  /* border: 4px solid var(--main-primary, #000); */
+  border: none;
+  background: var(--screen-white);
+  color: var(--main-primary);
+  gap: 32px;
+}
+
+.mrz-button-xl-text {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "PolymathDispRegular";
+  letter-spacing: 3px;
+  font-size: 60px;
+  font-style: normal;
+  line-height: 1;
+  color: var(--main-primary);
+}

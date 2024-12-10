@@ -1,0 +1,172 @@
+:root {
+  --cta-font-size: 6.5vh;
+  --start-button-font-size: calc(var(--cta-font-size) * 0.5);
+}
+
+#idle-slider {
+  margin: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: var(--screen-white);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px); /* Safari support */
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100vw;
+  height: 100vh;
+  overflow: clip;
+  touch-action: pan-x pan-y; /*restricts zooming on touch devices*/
+  
+  /* Fade In */
+  opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+#lang-DE,
+#lang-EN,
+#lang-FR {
+  height: 80%;
+  width: 100%;
+  display: table;
+  animation-name: slideInAndOut;
+  animation-duration: 18s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+#lang-EN {
+  animation-delay: -6s; /* should be third of animation-duration for three languages, half if only two languages */
+}
+
+#lang-FR {
+  animation-delay: -12s; /* at two thirds of animation-duration for third language */
+}
+
+.kiosk-CTA {
+  display: table-cell;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.kiosk-CTA, h1 {
+  font-size: var(--cta-font-size);
+  line-height: 1.2;
+  font-weight: normal;
+}
+
+/* Animation */
+@keyframes slideInAndOut {
+  0% {
+    opacity: 0;
+    position: absolute;
+    left: 50%; /*comment this line out for up-down animation instead of right-left*/
+    /*top: -50%; /*show this line for up-down animation instead of right-left*/
+    filter: blur(8px);
+    transform: scale(0.5);
+  }
+  16.666% {
+    opacity: 1;
+    position: absolute;
+    left: 0; /*comment this line out for up-down animation instead of right-left*/
+    /*top: 0; /*show this line for up-down animation instead of right-left*/
+    filter: blur(0px);
+    transform: scale(1);
+  }
+  33.333% {
+    opacity: 1;
+    position: absolute;
+    left: 0; /*comment this line out for up-down animation instead of right-left*/
+    /*top: 0; /*show this line for up-down animation instead of right-left*/
+    filter: blur(0px);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0;
+    position: absolute;
+    left: -50%; /*comment this line out for up-down animation instead of right-left*/
+    /*top: 40vh; /*show this line for up-down animation instead of right-left*/
+    filter: blur(8px);
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 0;
+    position: absolute;
+    left: -50%; /*comment this line out for up-down animation instead of right-left*/
+    /*top: -50%; /*show this line for up-down animation instead of right-left*/
+    filter: blur(8px);
+    transform: scale(0.5);
+  }
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+/* Navigation Elements */
+nav {
+    position: absolute;
+    bottom: 15vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+
+.mrz-button-xl{
+  box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 1);
+  padding: calc(var(--start-button-font-size) * 0.533) calc(var(--start-button-font-size) * 1.066);
+  gap: calc(var(--start-button-font-size) * 0.533);
+}
+
+.mrz-button-xl-text {
+  font-size: var(--start-button-font-size);
+}
+
+.mrz-button-xl-icon {
+  height: calc(var(--start-button-font-size) * .8);
+  width: auto;
+}
+
+.mrz-button-xl-icon svg {
+  height: 100%;
+  width: auto;
+  stroke: var(--main-primary);
+}
+
+.mrz-button-xl:active{
+  background-color: var(--main-secondary);
+  box-shadow: none;
+  color: var(--color-screen-white) !important;
+  stroke: #f5f5f5;
+  transform: translateX(4px) translateY(4px);
+  opacity: .5;
+  filter: blur(4px);
+}
+.mrz-button-xl:active svg path {
+  stroke: inherit;
+}
+
+/* phone screen optimizations */
+@media screen and (max-width: 600px) {
+  @media screen and (max-width: 600px) {
+    :root {
+      --cta-font-size: 8.8vw;
+    }
+  }
+}
+@media screen and (min-width: 1280px) {
+  :root {
+    --cta-font-size: 10vh;
+  }
+}
