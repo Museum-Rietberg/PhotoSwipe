@@ -143,6 +143,11 @@ a {
   max-width: 17vw;
 }
 
+.info-right > h4 {
+  text-align: right;
+  width: 100%;
+}
+
 .hidden-caption-content {
   display: none;
 }

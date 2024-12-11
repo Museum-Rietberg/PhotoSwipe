@@ -2,17 +2,27 @@ fetch("metadata-liebezumdetail.json")
   .then((response) => response.json())
   .then((data) => {
 
-    // sort images by "Stil_Kultur", put empty values at end
+    // sort images by "Urheber_innen[0].Urheber", put "Urheber*in unbekannt" second to last, empty values at end
     data = data.sort((a, b) => {
-      if (b.Stil_Kultur.length == 0){
-        return -1;
+      if (!a.Urheber_innen || a.Urheber_innen.length === 0) {
+      return 1;
       }
-      if (a.Stil_Kultur.length == 0){
-        return 1;
+      if (!b.Urheber_innen || b.Urheber_innen.length === 0) {
+      return -1;
       }
-      if (a.Stil_Kultur[0].Stil_Kultur < b.Stil_Kultur[0].Stil_Kultur) {
-        return -1;
+      if (a.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
+      return 1;
       }
+      if (b.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
+      return -1;
+      }
+      if (a.Urheber_innen[0].Urheber < b.Urheber_innen[0].Urheber) {
+      return -1;
+      }
+      if (a.Urheber_innen[0].Urheber > b.Urheber_innen[0].Urheber) {
+      return 1;
+      }
+      return 0;
     });
 
 
@@ -62,8 +72,8 @@ fetch("metadata-liebezumdetail.json")
       rubrikLeft.innerHTML = "Datierung";
       contentLeft.innerHTML = object.Datierung[0].Datierung;
       bildTitel.textContent = object.Titel;
-      rubrikRight.innerHTML = "Inv.-Nr.";
-      contentRight.innerHTML = object.Inv_Nr;      
+      rubrikRight.innerHTML = "Urheber*in";
+      contentRight.innerHTML = object.Urheber_innen[0].Urheber;      
 
       // get original image dimensions
       const image = new Image();
