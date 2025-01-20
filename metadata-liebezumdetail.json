@@ -1,42 +1,93 @@
 [ {
-  "ID" : "CH-001319-0.Obj.35713",
-  "Inventarnummer" : "CH-001319-0.Obj.2005.0103",
-  "Titel" : "Krishna schmückt Radhas Haare\nZeichnung zur zweiten Guler-Gitagovinda-Serie von ca. 1775",
-  "Inv_Nr" : "2005.103",
+  "ID" : "CH-001319-0.Obj.64950",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0084",
+  "Titel" : "Rama bei den Asketen\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "2005.84",
   "Urheber_innen" : [ {
-    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1770"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2005.103.jpg"
+    "Dateiname" : "2005.84.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.12329",
-  "Inventarnummer" : "CH-001319-0.Obj.2010.0017",
-  "Titel" : "Krishna kämmt Radhas Haare\r\nZeichnung zu einem ovalen Gitagovinda",
-  "Inv_Nr" : "2010.17",
+  "ID" : "CH-001319-0.Obj.64951",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0086",
+  "Titel" : "Die verzweifelten Affen treffen den Geier Sampati\nFolio 43 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Inv_Nr" : "2005.86",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1825"
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2010.17.JPG"
+    "Dateiname" : "2005.86.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.5006",
-  "Inventarnummer" : "CH-001319-0.Obj.2012.0160",
-  "Titel" : "Himal Ragaputra\r\nFolio aus der Guler-Ragamala-Serie von ca. 1790",
-  "Inv_Nr" : "2012.160",
+  "ID" : "CH-001319-0.Obj.64952",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0093",
+  "Titel" : "Opfervorbereitung für die Inthronisation Ramas\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2005.93",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2005.93.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64953",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0094",
+  "Titel" : "Bharata trifft Guha am Ufer der Ganga\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2005.94",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2005.94.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64955",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0110",
+  "Titel" : "Ravana schickt den Dämonen Indrajit aus\r\nFolio aus der Fortsetzung der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2005.110",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der zweiten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1790"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2005.110.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64956",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0111",
+  "Titel" : "Hanuman holt Heilpflanzen\nFolio 162 aus der Fortsetzung der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2005.111",
   "Urheber_innen" : [ {
     "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
   } ],
@@ -44,41 +95,164 @@
     "Datierung" : "um 1790"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2012.160.jpg"
+    "Dateiname" : "2005.111.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.20336",
-  "Inventarnummer" : "CH-001319-0.Obj.2013.0132",
-  "Titel" : "Jagat Singh II. bei einer Audienz",
-  "Inv_Nr" : "2013.132",
+  "ID" : "CH-001319-0.Obj.64958",
+  "Inventarnummer" : "CH-001319-0.Obj.2005.0137",
+  "Titel" : "Hanuman nachts in Ravanas Palast\r\nVorzeichnung zur Fortsetzung der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2005.137",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1790"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2005.137.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.39730",
+  "Inventarnummer" : "CH-001319-0.Obj.2006.0181",
+  "Titel" : "Hanuman tötet Jambumalin\r\nFolio aus der Fortsetzung der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2006.181",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1790"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2006.181.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.37073",
+  "Inventarnummer" : "CH-001319-0.Obj.2008.0001",
+  "Titel" : "König Dasharathas Opferritual\r\nFolio aus der kleinen Guler-Kangra Ramayana Serie von 1820/1830",
+  "Inv_Nr" : "2008.1",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der zweiten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1820"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2008.1.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67235",
+  "Inventarnummer" : "CH-001319-0.Obj.2008.0053",
+  "Titel" : "Ravana in der goldenen Stadt\r\nWerkstattzeichnung zu einer Ramayana-Serie",
+  "Inv_Nr" : "2008.53",
+  "Urheber_innen" : [ {
+    "Urheber" : "Laharu von Chamba"
   } ],
   "Datierung" : [ {
     "Datierung" : "um 1740"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2013.132.jpg"
+    "Dateiname" : "2008.53.jpg"
   } ],
-  "Stil_Kultur" : [ ]
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
-  "ID" : "CH-001319-0.Obj.31504",
-  "Inventarnummer" : "CH-001319-0.Obj.2017.00697",
-  "Titel" : "Rao Chattar Sal von Bundi\r\nFolio aus dem späteren Shahjahan-Album",
-  "Inv_Nr" : "2017.697",
+  "ID" : "CH-001319-0.Obj.67236",
+  "Inventarnummer" : "CH-001319-0.Obj.2008.0054",
+  "Titel" : "Sita wird den Affen aus dem Ashoka-Hain befreit\r\nWerkstattzeichnung zu einer Ramayana-Serie",
+  "Inv_Nr" : "2008.54",
+  "Urheber_innen" : [ {
+    "Urheber" : "Laharu von Chamba"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1740"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2008.54.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67238",
+  "Inventarnummer" : "CH-001319-0.Obj.2008.0188",
+  "Titel" : "Sampati fliegt davon, nachdem er die Affen ans Meer gebracht hat\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2008.188",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2008.188.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67224",
+  "Inventarnummer" : "CH-001319-0.Obj.2011.0002",
+  "Titel" : "Die Asketen im Dandaka-Wald bitten Rama um Schutz\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "2011.2",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2011.2.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.36263",
+  "Inventarnummer" : "CH-001319-0.Obj.2018.1239",
+  "Titel" : "Ramas Hochzeit wird vorbereitet (Janaka trifft seinen Bruder)\r\nFolio aus dem «Shangri»-Ramayana, Stil II",
+  "Inv_Nr" : "2018.1239",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt am Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2018.1239.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.4348",
+  "Inventarnummer" : "CH-001319-0.Obj.2018.1240",
+  "Titel" : "Rama erschiesst Valin aus dem Hinterhalt\nFolio 15 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Inv_Nr" : "2018.1240",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "Mogul-Periode, um 1650"
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2017.697.jpg"
+    "Dateiname" : "2018.1240.jpg"
   } ],
-  "Stil_Kultur" : [ ]
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
   "ID" : "CH-001319-0.Obj.37787",
   "Inventarnummer" : "CH-001319-0.Obj.2018.1245",
@@ -97,306 +271,576 @@
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.33182",
-  "Inventarnummer" : "CH-001319-0.Obj.2019.0531",
-  "Titel" : "Ohne Titel",
-  "Inv_Nr" : "2019.531",
+  "ID" : "CH-001319-0.Obj.38114",
+  "Inventarnummer" : "CH-001319-0.Obj.2018.1247",
+  "Titel" : "Die Belehrung der Weisen Narada\nFolio aus einer Ramayana-Serie (nach Tulsidas)",
+  "Inv_Nr" : "2018.1247",
   "Urheber_innen" : [ {
-    "Urheber" : "Donia Qaiser"
+    "Urheber" : "Purkhu von Kangra"
   } ],
   "Datierung" : [ {
-    "Datierung" : "2018"
+    "Datierung" : "1810–1815"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2019.531.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.23605",
-  "Inventarnummer" : "CH-001319-0.Obj.2019.0623",
-  "Titel" : "Ohne Titel",
-  "Inv_Nr" : "2019.623",
-  "Urheber_innen" : [ {
-    "Urheber" : "Malik"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "2018"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2019.623.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.29207",
-  "Inventarnummer" : "CH-001319-0.Obj.2019.0625",
-  "Titel" : "Ohne Titel",
-  "Inv_Nr" : "2019.625",
-  "Urheber_innen" : [ {
-    "Urheber" : "Syed Hussein Agha"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "2018"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2019.625.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.29895",
-  "Inventarnummer" : "CH-001319-0.Obj.2019.0626",
-  "Titel" : "Ohne Titel",
-  "Inv_Nr" : "2019.626",
-  "Urheber_innen" : [ {
-    "Urheber" : "Ifrah Mehmood Afridi"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "2018"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2019.626.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.2414",
-  "Inventarnummer" : "CH-001319-0.Obj.2020.0312",
-  "Titel" : "Ein verrufener Ort",
-  "Inv_Nr" : "2020.312",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "circa 1810"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2020.312.jpg"
+    "Dateiname" : "2018.1247.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
+  "ID" : "CH-001319-0.Obj.60608",
+  "Inventarnummer" : "CH-001319-0.Obj.2019.0473",
+  "Titel" : "Rama erlöst Ahalya\r\nFolio 17 aus der ersten Orchha-Ramayana-Serie",
+  "Inv_Nr" : "2019.473",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1595–1605"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2019.473.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.60609",
+  "Inventarnummer" : "CH-001319-0.Obj.2019.0474",
+  "Titel" : "Vor dem Einsteigen ins Fährboot zum Exil\r\nFolio 28 aus der ersten Orchha-Ramayana-Serie",
+  "Inv_Nr" : "2019.474",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1595–1605"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2019.474.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.60610",
+  "Inventarnummer" : "CH-001319-0.Obj.2019.0475",
+  "Titel" : "Die Krähe stürzt sich in die Zuflucht bei Rama\r\nFolio 30 aus der ersten Orchha-Ramayana-Serie",
+  "Inv_Nr" : "2019.475",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1595–1605"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2019.475.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.4575",
+  "Inventarnummer" : "CH-001319-0.Obj.2019.0550",
+  "Titel" : "König Janaka berichtet Vishvamitra\r\nFolio 44 aus einer kleinen Ramayana-Serie",
+  "Inv_Nr" : "2019.550",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der zweiten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1810–1815"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2019.550.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.72576",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0068",
+  "Titel" : "Hanuman springt in den Rachen Surasas\nFolio 49 (?) aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.68",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1645–1650"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.68.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72577",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0069",
+  "Titel" : "Tumult im Honigwald (madhuvana)\nFolio 6[...] aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.69",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1645–1650"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.69.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72578",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0070",
+  "Titel" : "Valmiki führt Sita und ihre Söhne zu Rama\nFolio 94 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.70",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1645–1650"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.70.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72579",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0071",
+  "Titel" : "Abschied von Lanka\nFolio 79 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.71",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1645–1650"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.71.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72581",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0073",
+  "Titel" : "Das Scheitern der Freier, Shivas Bogen zu spannen\nFolio 8 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.73",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.73_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72582",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0074",
+  "Titel" : "Das schreckliche Monster Viradha\nFolio 23 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.74",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.74_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72583",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0075",
+  "Titel" : "Die goldene Gazelle\nFolio 31 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.75",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.75_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72584",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0076",
+  "Titel" : "Ravanas Kampf mit dem Geierkönig Jatayus\nFolio 33 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.76",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.76_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
   "ID" : "CH-001319-0.Obj.72585",
   "Inventarnummer" : "CH-001319-0.Obj.2021.0077",
-  "Titel" : "Hanuman, Angada und Jambavan treffen sich auf Svayamprabha\nFolio 46 aus einer Ramayana-Serie",
+  "Titel" : "Hanuman, Angada und Jambavan treffen auf Svayamprabha\nFolio 46 aus einer Ramayana-Serie",
   "Inv_Nr" : "2021.77",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1650–1660"
+    "Datierung" : "1650–1660"
   } ],
   "Digital_Assets" : [ {
     "Dateiname" : "2021.77_1.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.89755",
-  "Inventarnummer" : "CH-001319-0.Obj.2022.00376",
-  "Titel" : "Die Götter feiern die Rückkehr der Dämonen in die Unterwelt\nFolio 54 aus der \"blau umrandeten Devimahatmya-Serie\"",
-  "Inv_Nr" : "2022.376",
+  "ID" : "CH-001319-0.Obj.72586",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0078",
+  "Titel" : "Hanuman springt in den Rachen Surasas\nFolio 49 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.78",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1780"
+    "Datierung" : "1650–1660"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2022.376.jpg"
+    "Dateiname" : "2021.78_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72587",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0079",
+  "Titel" : "In Kabandhas Griff\nFolio 35 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.79",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.79_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72588",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0080",
+  "Titel" : "Kumbhakarna wirft sich Rama entgegen\nFolio 73 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.80",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.80_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72589",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0081",
+  "Titel" : "Nach dem Sieg\nFolio 77 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.81",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.81_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72590",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0082",
+  "Titel" : "Sita wird durch Agni vereidigt\nFolio 78 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.82",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.82_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72591",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0083",
+  "Titel" : "Abschied von Lanka\nFolio 79 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.83",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.83_1.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72947",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0157",
+  "Titel" : "Sita - der Siegespreis für den, der den Bogen spannt\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.157",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1700–1730"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.157.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72948",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0158",
+  "Titel" : "Rama in düsterer Stimmung auf dem Prasravana-Berg, Lakshmana drohend in Sugrivas Palast\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.158",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1700–1730"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.158.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72949",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0159",
+  "Titel" : "Nach dem Sieg: Die Götter huldigen Rama, die gefallenen Affen- und Bärenkrieger stehen wieder auf\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "2021.159",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1700–1730"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.159.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.72961",
+  "Inventarnummer" : "CH-001319-0.Obj.2021.0171",
+  "Titel" : "Ravana drängt Sita, seine Frau zu werden\nFolio aus einer Valmiki Ramayana-Serie",
+  "Inv_Nr" : "2021.171",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1800–1810"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2021.171.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.107631",
+  "Inventarnummer" : "CH-001319-0.Obj.2023.00038",
+  "Titel" : "Die Rettung von Ahalya\nFolio 6 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2023.38",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2023.38.JPG"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.107632",
+  "Inventarnummer" : "CH-001319-0.Obj.2023.00039",
+  "Titel" : "Kalanemi wird von Hanuman geschlagen\nFolio 71 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2023.39",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1650–1660"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2023.39.JPG"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.111964",
+  "Inventarnummer" : "CH-001319-0.Obj.2023.00276",
+  "Titel" : "Lakshmana ist verwundet\nFolio 72 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2023.276",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1645–1650"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2023.276.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167599",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00460",
+  "Titel" : "Kräftemessen von Sitas Freiern an Shivas goldenem Bogen\nFolio 7 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.460",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.460.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167600",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00461",
+  "Titel" : "Rama und Sitas Hochzeit\nFolio 13 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.461",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.461.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167601",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00462",
+  "Titel" : "Ramas Hochzeitsprozession begegnet Jamadagya (Parashurama)\nFolio 14 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.462",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.462.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167602",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00463",
+  "Titel" : "Ramas Hochzeitszug wird von Ayodhya erwartet\nFolio 16 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.463",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.463.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167603",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00464",
+  "Titel" : "Dasharathas Minister beraten sich (nach Dasharathas Tod)\nFolio 37 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.464",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.464.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.167604",
+  "Inventarnummer" : "CH-001319-0.Obj.2024.00465",
+  "Titel" : "Ravana entführt Sita und wird von Jatayus angegriffen\nFolio 53 aus einer Ramayana-Serie",
+  "Inv_Nr" : "2024.465",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "2024.465.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.64966",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_13",
+  "Titel" : "Ramas Hochzeitszug\r\nFolio aus dem «Shangri»-Ramayana, Stil II",
+  "Inv_Nr" : "REF 13",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt am Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 13.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.94824",
-  "Inventarnummer" : "CH-001319-0.Obj.2022.00416",
-  "Titel" : "Junger Mann mit einem Affen spielend",
-  "Inv_Nr" : "2022.416",
+  "ID" : "CH-001319-0.Obj.64967",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_15",
+  "Titel" : "Ein Wald wird durchsucht\r\nFolio aus dem «Shangri»-Ramayana, Stil III",
+  "Inv_Nr" : "REF 15",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1620–1630"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2022.416.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.101628",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00019",
-  "Titel" : "Die eifersüchtige Radha schlägt Krishna mit einem Lotosstängel",
-  "Inv_Nr" : "2023.19",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1810–1820"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.19.jpg"
+    "Dateiname" : "REF 15.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.101715",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00020",
-  "Titel" : "Die Götter rufen Devi an\nFolio 53 einer Markandeya-Purana-Serie",
-  "Inv_Nr" : "2023.20",
+  "ID" : "CH-001319-0.Obj.64968",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_16",
+  "Titel" : "Ein Dämon wird vom Affenprinzen Angada erschlagen\r\nFolio aus dem «Shangri»-Ramayana, Stil III",
+  "Inv_Nr" : "REF 16",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1780"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2023.20.jpg"
+    "Dateiname" : "REF 16.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.107641",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00043",
-  "Titel" : "Einem Adligen wird am Brunnen Wasser gereicht",
-  "Inv_Nr" : "2023.43",
+  "ID" : "CH-001319-0.Obj.64969",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_24",
+  "Titel" : "Rama schliesst mit Sugriva einen Freundschaftsbund\nFolio 4 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Inv_Nr" : "REF 24",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "2. Hälfte 18. Jh."
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "2023.43.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.107644",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00046",
-  "Titel" : "Prophet Ali mit seinen beiden Söhnen",
-  "Inv_Nr" : "2023.46",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "2. Hälfte 18. Jh."
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.46.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.107647",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00049",
-  "Titel" : "Madhumadhavi Ragini\nFolio aus einer Ragamala-Serie",
-  "Inv_Nr" : "2023.49",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "2. Hälfte 18. Jh."
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.49.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.111853",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00208",
-  "Titel" : "\"Ihr wolkenschwarz dichtes Haar\"\nZeichnung zur zweiten Guler-Gitagovinda-Serie von ca. 1775 (Folio 97)",
-  "Inv_Nr" : "2023.208",
-  "Urheber_innen" : [ {
-    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "um 1770"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.208.jpg"
+    "Dateiname" : "REF 24.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
-}, {
-  "ID" : "CH-001319-0.Obj.111860",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00215",
-  "Titel" : "\"Der mir loslöste der Hüftwölbung Hülle\"\nZeichnung zur zweiten Guler-Gitagovinda-Serie von ca. 1775 (Folio 48)",
-  "Inv_Nr" : "2023.215",
-  "Urheber_innen" : [ {
-    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "um 1770"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.215.jpg"
-  } ],
-  "Stil_Kultur" : [ {
-    "Stil_Kultur" : "Pahari"
-  } ]
-}, {
-  "ID" : "CH-001319-0.Obj.111871",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00223",
-  "Titel" : "Beim Bad überrascht",
-  "Inv_Nr" : "2023.223",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "um 1770"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.223.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.111877",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00229",
-  "Titel" : "Shravana, der Regenmonat\nFolio einer Barahmasa-Serie",
-  "Inv_Nr" : "2023.229",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "um 1770"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.229.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.111885",
-  "Inventarnummer" : "CH-001319-0.Obj.2023.00234",
-  "Titel" : "Kughasi Ragini (?)\nFolio aus Kota Narayana Ragamala-Serie",
-  "Inv_Nr" : "2023.234",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "um 1770"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "2023.234.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.68037",
-  "Inventarnummer" : "CH-001319-0.Obj.K.0004-0026",
-  "Titel" : "Handakten Eberhard Fischer",
-  "Inv_Nr" : "K.0004-0026",
-  "Urheber_innen" : [ {
-    "Urheber" : "Werner Reinhart (1884–1951)"
-  }, {
-    "Urheber" : "Jean Paul Barbier-Mueller (1930–2016)"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1969–2009"
-  } ],
-  "Digital_Assets" : [ ],
-  "Stil_Kultur" : [ ]
 }, {
   "ID" : "CH-001319-0.Obj.64970",
   "Inventarnummer" : "CH-001319-0.Obj.REF_25",
-  "Titel" : "Affen in der Höhle bei der Asketin Swayamprabha\r\nFolio No. 46 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Titel" : "Affen in der Höhle bei der Asketin Svayamprabha\nFolio 46 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
   "Inv_Nr" : "REF 25",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
@@ -411,27 +855,27 @@
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.64976",
-  "Inventarnummer" : "CH-001319-0.Obj.REF_32",
-  "Titel" : "''Des Busens wölbende Himmelsflur besternt er''\nFolio 132 aus der Gitagovinda-Serie von 1775/1780",
-  "Inv_Nr" : "REF 32",
+  "ID" : "CH-001319-0.Obj.64971",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_26",
+  "Titel" : "Der Geier Sampati berichtet den Affen, dass er Sita gesehen hat\nFolio 44 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Inv_Nr" : "REF 26",
   "Urheber_innen" : [ {
-    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+    "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1775"
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "REF 32.jpg"
+    "Dateiname" : "REF 26.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.64979",
-  "Inventarnummer" : "CH-001319-0.Obj.REF_35",
-  "Titel" : "\"Ich war so scheu\"; Krishna und Radha treffen sich zum ersten Mal\nFolio 13 aus der Gitagovinda-Serie von 1775/1780",
-  "Inv_Nr" : "REF 35",
+  "ID" : "CH-001319-0.Obj.64982",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_39",
+  "Titel" : "Shraddha-Zeremonie für den verstorbenen Dasharatha\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 39",
   "Urheber_innen" : [ {
     "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
   } ],
@@ -439,7 +883,207 @@
     "Datierung" : "um 1775"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "REF 35.jpg"
+    "Dateiname" : "REF 39.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64983",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_40",
+  "Titel" : "Überquerung des Ganges-Flusses auf dem Weg ins Exil\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 40",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 40.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64984",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_41",
+  "Titel" : "Rama und Sita besuchen Asketen im Wald\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 41",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 41.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64985",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_42",
+  "Titel" : "Der Dämon Kabandha erlangt seine Erlösung\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 42",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 42.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64986",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_43",
+  "Titel" : "Bharata und Shatrughna treffen in Bhardvaja's Ashram ein\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 43",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 43.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67223",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_52",
+  "Titel" : "Zwei Spione nähern sich als Affen verkleidet der Armee von Rama\nBlatt aus der grossformatigen «Siege of Lanka»-Serie",
+  "Inv_Nr" : "REF 52",
+  "Urheber_innen" : [ {
+    "Urheber" : "Manaku von Guler (um 1700–um 1760)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1725"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 52.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.64988",
+  "Inventarnummer" : "CH-001319-0.Obj.REF_53",
+  "Titel" : "Rama und Dasharatha treffen bei Dasharatha ein\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "REF 53",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "REF 53.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.8836",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0833a",
+  "Titel" : "Kampf der Affen und Dämonen (Vorderseite)\r\nFolio aus einem Ramayana-Manuskript",
+  "Inv_Nr" : "RVI 833a",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1700"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 833a.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.5078",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0833b",
+  "Titel" : "Kampf der Affen und Dämonen (Rückseite)\r\nFolio aus einem Ramayana-Manuskript",
+  "Inv_Nr" : "RVI 833b",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1700"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 833b.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.37410",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0840",
+  "Titel" : "Hanuman springt über den Ozean\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 840",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 840_03.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.36020",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0841",
+  "Titel" : "Hanuman bereitet seine Rückkehr vor\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 841",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 841.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.39396",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0842",
+  "Titel" : "Hanuman überlistet die Dämonin Surasa\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 842",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 842.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38943",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0843",
+  "Titel" : "Rama bespricht sich mit den Affen\r\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 843",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 843.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
@@ -447,7 +1091,7 @@
 }, {
   "ID" : "CH-001319-0.Obj.38167",
   "Inventarnummer" : "CH-001319-0.Obj.RVI_0844",
-  "Titel" : "Dadhimukha berichtet Rama, Lakshmana und Sugriva von der Zerstörung des Madhuvana-Hains\r\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Titel" : "Dadhimukha berichtet Rama, Lakshmana und Sugriva von der Zerstörung des Madhuvana-Hains\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
   "Inv_Nr" : "RVI 844",
   "Urheber_innen" : [ {
     "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
@@ -462,35 +1106,73 @@
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.35063",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_0852",
-  "Titel" : "Bangala Ragini\nFolio aus einer Ragamala-Serie",
-  "Inv_Nr" : "RVI 852",
+  "ID" : "CH-001319-0.Obj.36752",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0845",
+  "Titel" : "Betrunkene Affen und Bären im Madhuvana-Hain\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 845",
   "Urheber_innen" : [ {
-    "Urheber" : "Jai Kishan (aktiv 1756–1800)"
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
   } ],
   "Datierung" : [ {
-    "Datierung" : "datiert 1756 (1813 V.S.)"
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 852.jpg"
+    "Dateiname" : "RVI 845.jpg"
   } ],
-  "Stil_Kultur" : [ ]
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
-  "ID" : "CH-001319-0.Obj.7301",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_0879",
-  "Titel" : "Bhairavi Ragini\nFolio aus einer Ragamala-Serie",
-  "Inv_Nr" : "RVI 879",
+  "ID" : "CH-001319-0.Obj.39073",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0846",
+  "Titel" : "Angada, Jambavan und Hanuman besprechen die Überquerung des Meeres\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 846",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1775"
+    "Datierung" : "um 1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 879.jpg"
+    "Dateiname" : "RVI 846.jpg"
   } ],
-  "Stil_Kultur" : [ ]
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.37246",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0847",
+  "Titel" : "Hanuman, Angada und Jambavan besteigen den Berg Mahendra\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 847",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 847.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.37869",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0848",
+  "Titel" : "Hanuman lässt sich von Indrajits Pfeilen fesseln\nFolio aus der kleinen Guler-Ramayana-Serie von ca. 1720",
+  "Inv_Nr" : "RVI 848",
+  "Urheber_innen" : [ {
+    "Urheber" : "Pandit Seu von Guler (um 1680–um 1740)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 848.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
   "ID" : "CH-001319-0.Obj.37481",
   "Inventarnummer" : "CH-001319-0.Obj.RVI_0903",
@@ -500,7 +1182,7 @@
     "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1700-1710"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
     "Dateiname" : "RVI 903.jpg"
@@ -509,33 +1191,182 @@
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.39258",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_0954",
-  "Titel" : "Dara Shikoh besucht einen Yogi und eine Yogini\r\nEinzelbild, als Albumblatt montiert",
-  "Inv_Nr" : "RVI 954",
+  "ID" : "CH-001319-0.Obj.39517",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0932",
+  "Titel" : "Rama eilt zu seinem Vater: Seine Krönung ist anberaumt\r\nFolio aus dem «Shangri»-Ramayana, Stil II",
+  "Inv_Nr" : "RVI 932",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt am Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 932.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38905",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0937",
+  "Titel" : "Auszug Ramas ins Exil\r\nFolio aus einem Ramayana-Manuskript",
+  "Inv_Nr" : "RVI 937",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "Mogul-Zeit, Aurangzeb-Periode, un 1660"
+    "Datierung" : "1700–1750"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 954_1.jpg"
+    "Dateiname" : "RVI 937.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38468",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0941",
+  "Titel" : "Hanuman kämpft gegen die sieben Söhne von Ravanas Minister\r\nWerkstattzeichnung zu einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 941",
+  "Urheber_innen" : [ {
+    "Urheber" : "Laharu von Chamba"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1740"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 941.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38662",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0967",
+  "Titel" : "Prahasta zieht mit seiner Horde gegen die Affen aus\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 967",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt für den Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 967.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.36793",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0981",
+  "Titel" : "Das Leben der Verbannten im Wald\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 981",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 981.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.35319",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0982",
+  "Titel" : "König Dasharatha muss ein Versprechen einlösen\r\nFolio aus dem «Shangri»-Ramayana, Stil II",
+  "Inv_Nr" : "RVI 982",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt am Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 982.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38722",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_0986",
+  "Titel" : "Das Reich der Götter und Dämonen\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 986",
+  "Urheber_innen" : [ {
+    "Urheber" : "Purkhu von Kangra"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1800–1815"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 986.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.11004",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1031",
+  "Titel" : "Ramas Verlobung mit Sita\r\nIllustration zum Ramayana",
+  "Inv_Nr" : "RVI 1031",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "19. Jh."
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1031.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.37675",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_0964",
-  "Titel" : "Siavash und Afrasiab treffen sich am Jihun-Fluss\nFolio 108v aus dem jainesken Shahnama",
-  "Inv_Nr" : "RVI 964",
+  "ID" : "CH-001319-0.Obj.14892",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1032",
+  "Titel" : "Die Hochzeit von Rama und Sita\r\nIllustration zum Ramayana",
+  "Inv_Nr" : "RVI 1032",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "Sultanats-Zeit, 1425–1450"
+    "Datierung" : "19. Jh."
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 964.jpg"
+    "Dateiname" : "RVI 1032.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.10514",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1033",
+  "Titel" : "Rama nimmt Abschied\r\nIllustration zum Ramayana",
+  "Inv_Nr" : "RVI 1033",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "19. Jh."
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1033.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.10695",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1034",
+  "Titel" : "Rama, Sita und Laksmana vor Vasishtha\r\nIllustration zum Ramayana",
+  "Inv_Nr" : "RVI 1034",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "19. Jh."
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1034.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
@@ -554,48 +1385,33 @@
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.10662",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1067",
-  "Titel" : "Maharana Amar Singh II. von Mewar reitet zum Tempel seiner Familiengottheit",
-  "Inv_Nr" : "RVI 1067",
+  "ID" : "CH-001319-0.Obj.10087",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1040",
+  "Titel" : "Ramas Krönung\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1040",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1710"
+    "Datierung" : "1725–1750"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1067.jpg"
+    "Dateiname" : "RVI 1040.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.12695",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1068",
-  "Titel" : "Maharana Amar Singh II. von Mewar amüsiert sich vor einem Gartenpavillon",
-  "Inv_Nr" : "RVI 1068",
+  "ID" : "CH-001319-0.Obj.13710",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1053",
+  "Titel" : "Lehrender Visvamitra\r\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1053",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1700"
+    "Datierung" : "18. Jh."
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1068.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.11796",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1075",
-  "Titel" : "Durga Jogmaya, die Vernichterin der Dämonen\r\nEinzelblatt zur Verehrung beim Durgapuja-Fest",
-  "Inv_Nr" : "RVI 1075",
-  "Urheber_innen" : [ {
-    "Urheber" : "Meister einer Werkstatt in Bundi"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1725-1750"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1075.jpg"
+    "Dateiname" : "RVI 1053.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
@@ -607,143 +1423,187 @@
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1750-1775"
+    "Datierung" : "1750–1775"
   } ],
   "Digital_Assets" : [ {
     "Dateiname" : "RVI 1083.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.66972",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1239",
-  "Titel" : "Krishna allein gelassen\r\nverm. Folio aus einer Gitagovinda-Serie",
-  "Inv_Nr" : "RVI 1239",
+  "ID" : "CH-001319-0.Obj.66961",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1230",
+  "Titel" : "Shurpanakha klagt ihrem Bruder Khara ihr Leid\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 1230",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1775-1800"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1239.jpg"
+    "Dateiname" : "RVI 1230.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.5773",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1525",
-  "Titel" : "Kanhada Ragini\nFolio 22 aus einer Ragamala-Serie",
-  "Inv_Nr" : "RVI 1525",
+  "ID" : "CH-001319-0.Obj.66962",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1231",
+  "Titel" : "Sterbender Valin\r\nFolio aus dem «Shangri»-Ramayana, Stil III",
+  "Inv_Nr" : "RVI 1231",
   "Urheber_innen" : [ {
-    "Urheber" : "Provinzieller Mogul-Stil"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1650"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1525.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.9934",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1543",
-  "Titel" : "Mokham Singh von Bhagwanpura",
-  "Inv_Nr" : "RVI 1543",
-  "Urheber_innen" : [ {
-    "Urheber" : "Bagta (aktiv um 1761–1814)"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "datiert 1814, v.s. 1871"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1543.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.36451",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1552",
-  "Titel" : "Raja Balwant Singh ruht vor einem Kamin",
-  "Inv_Nr" : "RVI 1552",
-  "Urheber_innen" : [ {
-    "Urheber" : "Nainsukh von Guler (um 1710–1778)"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1755–1760"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1552.jpg"
+    "Dateiname" : "RVI 1231.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.7717",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1687",
-  "Titel" : "Gujari Ragini\nFolio aus einer Ragamala-Serie",
-  "Inv_Nr" : "RVI 1687",
+  "ID" : "CH-001319-0.Obj.66963",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1232",
+  "Titel" : "Rama und Lakshmana werden von Indrajits Schlangenpfeilen gefesselt\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 1232",
   "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "Spätes 17. Jh."
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1687.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.7690",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1695",
-  "Titel" : "Alter Mann mit vier Höflingen",
-  "Inv_Nr" : "RVI 1695",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "Mogul-Zeit, Jahangir/Shahjahan-Periode, um 1630-1650"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1695.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.8976",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1710",
-  "Titel" : "Plan des Surya-Tempels von Konarak (Fassade)",
-  "Inv_Nr" : "RVI 1710",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "20. Jh."
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1710.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.5893",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1763",
-  "Titel" : "Flötenspielender Krishna, der geliebt und verehrt wird",
-  "Inv_Nr" : "RVI 1763",
-  "Urheber_innen" : [ {
-    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1770-1780"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1763.jpg"
+    "Dateiname" : "RVI 1232.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.35495",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1773",
-  "Titel" : "Varaha und Hiranyaksha im Kampf\r\nFolio aus der kleinen Guler-Bhagavata-Purana-Serie",
-  "Inv_Nr" : "RVI 1773",
+  "ID" : "CH-001319-0.Obj.12062",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1293",
+  "Titel" : "Rama empfängt Bären und Affen\r\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1293",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1725–1750"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1293.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66930",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1344",
+  "Titel" : "Ramas und Sitas erste Nacht in der Verbannung\r\nFolio aus der kleinen Guler-Kangra Ramayana Serie von 1820/1830",
+  "Inv_Nr" : "RVI 1344",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der zweiten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1820–1830"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1344.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66907",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1357",
+  "Titel" : "Vasishtha rät der Versammlung, Bharata nach Ayodhya zurückzurufen\r\nFolio aus einer grossformatigen Kangra-Ramayana-Serie von 1825/50",
+  "Inv_Nr" : "RVI 1357",
+  "Urheber_innen" : [ {
+    "Urheber" : "Purkhu von Kangra"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1357.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66898",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1358",
+  "Titel" : "Besprechung in Bharatas Lager\r\nFolio aus einer grossformatigen Kangra-Ramayana-Serie von 1825/50",
+  "Inv_Nr" : "RVI 1358",
+  "Urheber_innen" : [ {
+    "Urheber" : "Purkhu von Kangra"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1825–1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1358.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66897",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1359",
+  "Titel" : "Ravana tritt seinen Bruder Vibhishana, der zu Rama flüchtet\nFolio aus der grossen Guler-Kangra-Ramayana-Serie von ca. 1850",
+  "Inv_Nr" : "RVI 1359",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1359.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66896",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1360",
+  "Titel" : "Ravana schickt Shuka in Form eines Vogeldämons zu Sugriva\nFolio aus der grossen Guler-Kangra-Ramayana-Serie von ca. 1850",
+  "Inv_Nr" : "RVI 1360",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1360.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.66895",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1361",
+  "Titel" : "Ein Affenanführer bespricht mit Rama am nördlichen Ufer das weitere Vorgehen\nFolio aus der grossen Guler-Kangra-Ramayana-Serie von ca. 1850",
+  "Inv_Nr" : "RVI 1361",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1361.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.39021",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1515",
+  "Titel" : "Schlacht der Affen und Dämonen\r\nFolio aus der kleinen Guler-Bhagavata-Purana-Serie",
+  "Inv_Nr" : "RVI 1515",
   "Urheber_innen" : [ {
     "Urheber" : "Manaku von Guler (um 1700–um 1760)"
   } ],
@@ -751,56 +1611,90 @@
     "Datierung" : "um 1740"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1773.jpg"
+    "Dateiname" : "RVI 1515.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.7904",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1792a-b",
-  "Titel" : "Doppelseitiges Folio mit einer Szene aus dem \"Chester-Beatty/British-Library-Akbarnama\" und einer Kalligrafie",
-  "Inv_Nr" : "RVI 1792a-b",
-  "Urheber_innen" : [ {
-    "Urheber" : "Dharam Das"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "Mogul-Zeit, 1593–1596"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1792a.jpg"
-  } ],
-  "Stil_Kultur" : [ ]
-}, {
-  "ID" : "CH-001319-0.Obj.7376",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1793a",
-  "Titel" : "Fürst spricht zu Fischergruppe (Vorderseite)",
-  "Inv_Nr" : "RVI 1793a",
+  "ID" : "CH-001319-0.Obj.9223",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1522",
+  "Titel" : "Hanumans Kampf gegen Ravana\r\nFolio 13 aus einem Ramayana-Manuskript",
+  "Inv_Nr" : "RVI 1522",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "Mogul-Zeit, Akbar-Periode, um 1600"
+    "Datierung" : "um 1700"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1793.jpg"
+    "Dateiname" : "RVI 1522.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.5418",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1820",
-  "Titel" : "Kanada Ragini\nFolio aus einer Ragamala-Serie, als Albumblatt montiert für Antoine Polier",
-  "Inv_Nr" : "RVI 1820",
+  "ID" : "CH-001319-0.Obj.37125",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1526",
+  "Titel" : "Rama und Sita zu Besuch beim Asketen Atri und dessen Gattin Anasuya\r\nFolio 20 aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1526",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1780-1785"
+    "Datierung" : "1650–1660"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1820_1.jpg"
+    "Dateiname" : "RVI 1526.jpg"
   } ],
   "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.38937",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1699",
+  "Titel" : "Shurpanakhas Beschwerde\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 1699",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1699.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38536",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1700",
+  "Titel" : "Verbrennung des Leichnams von König Dasharatha\r\nFolio aus dem kaiserlichen Ramayana von 1594",
+  "Inv_Nr" : "RVI 1700",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "Mogul-Zeit, Akbar-Periode, Kolophon dat. 16. Mai 1594"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1700.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.38573",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1701",
+  "Titel" : "Surpanakha wird verstümmelt\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 1701",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI1701.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
   "ID" : "CH-001319-0.Obj.39720",
   "Inventarnummer" : "CH-001319-0.Obj.RVI_1840",
@@ -814,6 +1708,21 @@
   } ],
   "Digital_Assets" : [ {
     "Dateiname" : "RVI 1840.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.38854",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1841",
+  "Titel" : "Rama tötet die Dämonin Tataka\r\nFolio aus dem kaiserlichen Ramayana von 1594",
+  "Inv_Nr" : "RVI 1841",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "Mogul-Zeit, Akbar-Periode, Kolophon dat. 16. Mai 1594"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 1841.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
@@ -834,33 +1743,37 @@
     "Stil_Kultur" : "Pahari"
   } ]
 }, {
-  "ID" : "CH-001319-0.Obj.37549",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1894",
-  "Titel" : "Drei Kriegsknechte: Der Sergeant Kesu, Umi Chand und Dharam Chand (Kala) aus Kurnal; Folio aus einer Serie von Soldaten-Porträts",
-  "Inv_Nr" : "RVI 1894",
+  "ID" : "CH-001319-0.Obj.9313",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1851",
+  "Titel" : "Hanuman auf Lanka\r\nFolio aus einer grossformatigen Ramayana-Serie",
+  "Inv_Nr" : "RVI 1851",
   "Urheber_innen" : [ {
-    "Urheber" : "Meister des Fraser-Albums"
+    "Urheber" : "Werkstatt aus Guler"
   } ],
   "Datierung" : [ {
-    "Datierung" : "datiert 1816"
+    "Datierung" : "1830–1850"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1894.jpg"
+    "Dateiname" : "RVI 1851.jpg"
   } ],
-  "Stil_Kultur" : [ ]
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 }, {
-  "ID" : "CH-001319-0.Obj.35590",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_1903",
-  "Titel" : "Punyaki Ragini, Frau von Bhirava Raga\r\nFolio aus Devidasas \"erster\" Ragamala-Serie",
-  "Inv_Nr" : "RVI 1903",
+  "ID" : "CH-001319-0.Obj.36153",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1856",
+  "Titel" : "Shurpanakhas Züchtigung\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 1856",
   "Urheber_innen" : [ {
-    "Urheber" : "Devidasa von Nurpur (aktiv um 1690)"
+    "Urheber" : "Meister von Stil IV des Shangri-Ramayanas"
+  }, {
+    "Urheber" : "Werkstatt für den Hof von Bahu"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1690"
+    "Datierung" : "1710–1720"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 1903.jpg"
+    "Dateiname" : "RVI 1856.jpg"
   } ],
   "Stil_Kultur" : [ {
     "Stil_Kultur" : "Pahari"
@@ -881,84 +1794,258 @@
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.67035",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_2017",
-  "Titel" : "Mukhari ragini (raginiputri von Malkosh raga)\r\nFolio aus der \"Boston-Ragamala-Serie\"",
-  "Inv_Nr" : "RVI 2017",
+  "ID" : "CH-001319-0.Obj.67044",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1924",
+  "Titel" : "Rama bei den Asketen\nFolio 25 aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1924",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "um 1770"
+    "Datierung" : "1650–1660"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 2017.jpg"
+    "Dateiname" : "RVI 1924.jpg"
   } ],
   "Stil_Kultur" : [ ]
 }, {
-  "ID" : "CH-001319-0.Obj.67092",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_2125",
-  "Titel" : "Raja Suratha und der Kaufmann Samadhi nehmen Abschied\r\nFolio 55 aus der \"blau umrandeten Devimahatmya-Serie\"",
-  "Inv_Nr" : "RVI 2125",
+  "ID" : "CH-001319-0.Obj.67043",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_1925",
+  "Titel" : "Bharata trifft Rama\nFolio 84 aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 1925",
   "Urheber_innen" : [ {
     "Urheber" : "Urheber*in unbekannt"
   } ],
   "Datierung" : [ {
-    "Datierung" : "1780-1800"
+    "Datierung" : "1650–1660"
   } ],
   "Digital_Assets" : [ {
-    "Dateiname" : "RVI 2125.jpg"
-  } ],
-  "Stil_Kultur" : [ {
-    "Stil_Kultur" : "Pahari"
-  } ]
-}, {
-  "ID" : "CH-001319-0.Obj.67094",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_2126",
-  "Titel" : "Raja Suratha und der Kaufmann Samadhi nehmen Abschied\r\nWerkstattzeichnung zu einer Devimahatmya-Serie",
-  "Inv_Nr" : "RVI 2126",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1780-1800"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 2126.jpg"
-  } ],
-  "Stil_Kultur" : [ {
-    "Stil_Kultur" : "Pahari"
-  } ]
-}, {
-  "ID" : "CH-001319-0.Obj.9733",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_2187",
-  "Titel" : "Asavari  Ragini  oder Sandhuri Ragini\nFolio aus einer Ragamala-Serie",
-  "Inv_Nr" : "RVI 2187",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "1725-1750"
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 2187.jpg"
-  } ],
-  "Stil_Kultur" : [ {
-    "Stil_Kultur" : "Pahari"
-  } ]
-}, {
-  "ID" : "CH-001319-0.Obj.5075",
-  "Inventarnummer" : "CH-001319-0.Obj.RVI_2194a",
-  "Titel" : "Liebespaar (Vorderseite)\r\nAlbumblatt",
-  "Inv_Nr" : "RVI 2194a",
-  "Urheber_innen" : [ {
-    "Urheber" : "Urheber*in unbekannt"
-  } ],
-  "Datierung" : [ {
-    "Datierung" : "18. Jh."
-  } ],
-  "Digital_Assets" : [ {
-    "Dateiname" : "RVI 2194.jpg"
+    "Dateiname" : "RVI 1925.jpg"
   } ],
   "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.10863",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2048a",
+  "Titel" : "Rama, Lakshmana und die Affen besiegen Ravana\nBlatt aus einem rajasthanischen Prachtalbum (Vorderseite)",
+  "Inv_Nr" : "RVI 2048a",
+  "Urheber_innen" : [ {
+    "Urheber" : "Kota-Meister"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1710"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2048.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.11927",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2088",
+  "Titel" : "Rama und Lakshmana greifen Ravana an\nFolio aus einer Ramayana-Serie",
+  "Inv_Nr" : "RVI 2088",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1875"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2088.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.67104",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2095",
+  "Titel" : "Der Gott Varuna begegnet dem heimkehrenden Hochzeitszug\r\nFolio aus dem «Shangri»-Ramayana, Stil II",
+  "Inv_Nr" : "RVI 2095",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt am Hof von Bahu"
+  }, {
+    "Urheber" : "Workshop of the “Younger Master” at the Court of Bahu (1690–1710)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2095.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67103",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2096",
+  "Titel" : "Rama zu Besuch beim Asketen Atri und dessen Gattin Anasuya\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 2096",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt für den Hof von Bahu"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2096.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67098",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2097",
+  "Titel" : "Die Affen kämpfen gegen die Dämonen\r\nFolio aus dem «Shangri»-Ramayana, Stil IV",
+  "Inv_Nr" : "RVI 2097",
+  "Urheber_innen" : [ {
+    "Urheber" : "Werkstatt für den Hof von Bahu"
+  }, {
+    "Urheber" : "Workshop in Bahu (1700–1710)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1710–1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2097.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67099",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2101",
+  "Titel" : "Lakshman besucht den Affenkönig Sugriva\nFolio 30 aus der kleinen «Mankot»-Ramayana-Serie von 1710/1725",
+  "Inv_Nr" : "RVI 2101",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  }, {
+    "Urheber" : "Not yet identified workshop in Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1720"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2101.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67087",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2114",
+  "Titel" : "Rama, Sita, Lakshman im Ashram eines Asketen\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 2114",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  }, {
+    "Urheber" : "Master of the First Generation after Manaku and Nainsukh of Guler (um 1775)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "1780–1780"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2114.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67079",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2119",
+  "Titel" : "Rama, Lakshmana und Hanuman bei einem toten Dämonen\r\nFolio aus der kleinen Guler-Bhagavata-Purana-Serie",
+  "Inv_Nr" : "RVI 2119",
+  "Urheber_innen" : [ {
+    "Urheber" : "Manaku von Guler (um 1700–um 1760)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1740"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2119.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67108",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2140",
+  "Titel" : "Der Vogeldämon Shuka berichtet Ravana von der Affenarmee\nFolio aus der grossen Guler-Kangra-Ramayana-Serie von ca. 1850",
+  "Inv_Nr" : "RVI 2140",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2140.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.67106",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2141",
+  "Titel" : "Der Dämon Kumbhakarna wird getötet\nFolio aus der grossen Guler-Kangra-Ramayana-Serie von ca. 1850",
+  "Inv_Nr" : "RVI 2141",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1850"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2141.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.39439",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2169",
+  "Titel" : "Vibhishana klärt Rama über die feindlichen Truppen auf\r\nFolio aus dem kaiserlichen Ramayana von 1594",
+  "Inv_Nr" : "RVI 2169",
+  "Urheber_innen" : [ {
+    "Urheber" : "Urheber*in unbekannt"
+  }, {
+    "Urheber" : "Not yet identified Mughal master painter at Emperor Akbar's atelier (aktiv um 1590)"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "Mogul-Zeit, Akbar-Periode, Kolophon dat. 16. Mai 1594"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2169.jpg"
+  } ],
+  "Stil_Kultur" : [ ]
+}, {
+  "ID" : "CH-001319-0.Obj.37746",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2170",
+  "Titel" : "Sitas Entführung\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 2170",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI 2170.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
+}, {
+  "ID" : "CH-001319-0.Obj.38166",
+  "Inventarnummer" : "CH-001319-0.Obj.RVI_2200",
+  "Titel" : "Trauer um toten König Dasharatha\r\nFolio aus der Guler-Ramayana-Serie von 1775/1780",
+  "Inv_Nr" : "RVI 2200",
+  "Urheber_innen" : [ {
+    "Urheber" : "Meister der ersten Generation nach Manaku und Nainsukh von Guler"
+  } ],
+  "Datierung" : [ {
+    "Datierung" : "um 1775"
+  } ],
+  "Digital_Assets" : [ {
+    "Dateiname" : "RVI2200.jpg"
+  } ],
+  "Stil_Kultur" : [ {
+    "Stil_Kultur" : "Pahari"
+  } ]
 } ]
