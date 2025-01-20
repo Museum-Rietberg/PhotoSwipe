@@ -3,25 +3,34 @@ fetch("metadata-liebezumdetail.json")
   .then((data) => {
 
     // sort images by "Urheber_innen[0].Urheber", put "Urheber*in unbekannt" second to last, empty values at end
+    // data = data.sort((a, b) => {
+    //   if (!a.Urheber_innen || a.Urheber_innen.length === 0) {
+    //   return 1;
+    //   }
+    //   if (!b.Urheber_innen || b.Urheber_innen.length === 0) {
+    //   return -1;
+    //   }
+    //   if (a.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
+    //   return 1;
+    //   }
+    //   if (b.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
+    //   return -1;
+    //   }
+    //   if (a.Urheber_innen[0].Urheber < b.Urheber_innen[0].Urheber) {
+    //   return -1;
+    //   }
+    //   if (a.Urheber_innen[0].Urheber > b.Urheber_innen[0].Urheber) {
+    //   return 1;
+    //   }
+    //   return 0;
+    // });
+
+    // sort images by Herstellungsort
     data = data.sort((a, b) => {
-      if (!a.Urheber_innen || a.Urheber_innen.length === 0) {
-      return 1;
-      }
-      if (!b.Urheber_innen || b.Urheber_innen.length === 0) {
-      return -1;
-      }
-      if (a.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
-      return 1;
-      }
-      if (b.Urheber_innen[0].Urheber === "Urheber*in unbekannt") {
-      return -1;
-      }
-      if (a.Urheber_innen[0].Urheber < b.Urheber_innen[0].Urheber) {
-      return -1;
-      }
-      if (a.Urheber_innen[0].Urheber > b.Urheber_innen[0].Urheber) {
-      return 1;
-      }
+      if (!a.Georef) return 1;
+      if (!b.Georef) return -1;
+      if (a.Georef < b.Georef) return -1;
+      if (a.Georef > b.Georef) return 1;
       return 0;
     });
 
@@ -68,12 +77,14 @@ fetch("metadata-liebezumdetail.json")
       bildUnterschrift.appendChild(infoRight);
       infoRight.append(rubrikRight, contentRight);
 
-        // fill containers with content
+      // fill containers with content
       rubrikLeft.innerHTML = "Datierung";
       contentLeft.innerHTML = object.Datierung[0].Datierung;
       bildTitel.textContent = object.Titel;
       rubrikRight.innerHTML = "Urheber*in";
       contentRight.innerHTML = object.Urheber_innen[0].Urheber;      
+      // rubrikRight.innerHTML = "Herstellungsort";
+      // contentRight.innerHTML = object.Georef; 
 
       // get original image dimensions
       const image = new Image();

@@ -2,6 +2,8 @@
 
 :root {
   font-size: 100%;
+  --thumbnail-size: 104px;
+  --thumbnail-spacing: 16px;
 }
 
 body {
@@ -41,26 +43,29 @@ h4{
 }
 
 #gallery {
-  overflow-y: scroll;
-  overflow-x: hidden;
+  /* Use overflow-y and -x for larger collections */
+  /*overflow-y: scroll;
+  overflow-x: hidden;*/
+  overflow: hidden;
   display: flex;
   width: calc(100vw - 32px);
   height: calc(100vh - 32px);
-  padding: 16px;
+  padding: var(--thumbnail-spacing);
   justify-content: space-evenly;
-  align-items: flex-start;
-  align-content: stretch;
-  gap: 16px;
+  align-items: justify;
+  align-content: center;
+  gap: var(--thumbnail-spacing);
   flex-wrap: wrap;
-  touch-action: pan-x pan-y;
+  /* touch-action: pan-x pan-y;*/
 }
 
 /* thumbnail container */
 a {
-  width: 128px;
-  height: 128px;
+  width: var(--thumbnail-size);
+  height: var(--thumbnail-size);
   display: flex;
   justify-content: space-around;
+  flex: 1 1 calc(7.143% - var(--thumbnail-spacing)) /*perfect size for 14 colums (100/14=7.143)*/
 }
 
 
@@ -68,8 +73,8 @@ a {
 
 /* thumnail size */
 .pswp-gallery__item img {
-  max-width: 128px;
-  max-height: 128px;
+  max-width: var(--thumbnail-size);
+  max-height: var(--thumbnail-size);
   object-fit: contain;
 }
 
