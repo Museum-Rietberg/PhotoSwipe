@@ -1,2 +1,2 @@
-cd "C:\Users\Public\Documents\Ragamala"
+cd "C:\Users\Public\Documents\LiebeZumDetail"
 browser-sync reload
