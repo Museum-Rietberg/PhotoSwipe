@@ -81,9 +81,8 @@ fetch("metadata-liebezumdetail.json")
       rubrikLeft.innerHTML = "Datierung";
       contentLeft.innerHTML = object.Datierung[0].Datierung;
       bildTitel.textContent = object.Titel;
-      rubrikRight.innerHTML = "Urheber*in / Herstellungsort";
-      // contentRight.innerHTML = object.Urheber_innen[0].Urheber, "/", object.Georef;      
-      contentRight.innerHTML = `${object.Urheber_innen[0].Urheber}<br>${object.Georef}`;
+      rubrikRight.innerHTML = "Urheber*in";
+      contentRight.innerHTML = `${object.Urheber_innen[0].Urheber}`;
       // rubrikRight.innerHTML = "Herstellungsort";
       // contentRight.innerHTML = object.Georef; 
 
